@@ -20,9 +20,6 @@
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-
-- ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
-
 ## ⚡**TechStack:**
 <p align="center">
   <a href="https://www.python.org/">
