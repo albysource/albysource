@@ -11,11 +11,11 @@
 - 👯 I’m looking to collaborate on Flutter Projects .
 - 💬 Ask me about Flutter or any tech-related stuff.
 - 📫 How to reach me: 
-<p align='center'>
+<p align=''>
   <a href="https://www.linkedin.com/in/the-albin-alex-/">
   <img alt="Albin's LinkedIn" width="50px" src="https://user-images.githubusercontent.com/88646272/145706922-34ea4acd-59fd-4ce1-843f-011b3a2d11d4.png" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="mailto:theaalbinalex@gmail.com?subject=Hey%20Albin">
+ <a href="mailto:theaalbinalex@gmail.com?subject=Hello%20Albin">
   <img alt="Albin's Gmail" width="50px" src="https://user-images.githubusercontent.com/88646272/145706951-491e50ee-9509-49e0-9d20-cea00b2e5608.png" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
