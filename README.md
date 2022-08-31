@@ -25,15 +25,61 @@
 
 ## ⚡**TechStack:**
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="40" src="https://logowik.com/content/uploads/images/flutter5786.jpg"></code>
-<code><img height="40" src="https://image.pngaaa.com/400/23400-middle.png"></code>
-<code><img height="40" src="https://image.pngaaa.com/400/23400-middle.png](https://cdn.freelogovectors.net/wp-content/uploads/2018/07/tensorflow_logo.png"></code>
-<code><img height="40" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/python/python.png"></code>
-<code><img height="40" src="https://commons.wikimedia.org/wiki/File:OpenCV_Logo_with_text.png"></code>
-<code><img height="40" src="https://commons.wikimedia.org/wiki/File:PyTorch_logo_icon.svg"></code>
+<p align="center">
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/python-3178C6?&style=for-the-badge&logo=python&logoColor=white">
+  </a>
+  <a href="https://java.com/en/">
+    <img src="https://img.shields.io/badge/java-00ADD8?&style=for-the-badge&logo=java&logoColor=white">
+  </a>
+   <a href="https://www.cplusplus.com/doc/tutorial/">
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
+  </a>
+   <a href="https://dart.dev">
+    <img src="https://img.shields.io/badge/dart-000000?&style=for-the-badge&logo=dart&logoColor=white">
+  </a>
+  <a href="https://html.com/">
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+  </a>
+  <a href="https://www.w3schools.com/css/">
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+  </a>
+<!--   <a href="https://www.javascript.com/">
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  </a> -->
+  <br>
+  <a href="https://www.blender.org/">
+    <img src="https://img.shields.io/badge/blender-339933?style=for-the-badge&logo=blender&logoColor=white">
+  </a>
+  <a href="https://getbootstrap.com">
+    <img src="https://img.shields.io/badge/bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white">
+  </a>
+  <a href="https://www.tensorflow.org/">
+    <img src="https://img.shields.io/badge/Tensorflow%20-FF9800?&style=for-the-badge&logo=Tensorflow&logoColor=white">
+  </a>
+   <a href="https://scikit-learn.org/stable/">
+    <img src="https://img.shields.io/badge/scikit%20learn-000000?&style=for-the-badge&logo=scikit%20learn&logoColor=white">
+  </a>
 
+  <a href="https://flutter.dev/">
+    <img src="https://img.shields.io/badge/Flutter%20-4285F4?&style=for-the-badge&logo=flutter&logoColor=white">
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://img.shields.io/badge/git-F05032?&style=for-the-badge&logo=git&logoColor=white">
+  </a>
+  <br>
+  <a href="https://www.figma.com/">
+    <img src="https://img.shields.io/badge/figma-61DAFB?&style=for-the-badge&logo=figma&logoColor=121212">
+  </a>
+  <a href="https://firebase.google.com/">
+    <img src="https://img.shields.io/badge/firebase-FF9800?&style=for-the-badge&logo=firebase&logoColor=white">
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  </a>
+</p>
+
+<hr>
 
 <br>
 <br>
