@@ -32,9 +32,6 @@
   <a href="https://java.com/en/">
     <img src="https://img.shields.io/badge/java-00ADD8?&style=for-the-badge&logo=java&logoColor=white">
   </a>
-   <a href="https://www.cplusplus.com/doc/tutorial/">
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
-  </a>
    <a href="https://dart.dev">
     <img src="https://img.shields.io/badge/dart-000000?&style=for-the-badge&logo=dart&logoColor=white">
   </a>
@@ -44,18 +41,14 @@
   <a href="https://www.w3schools.com/css/">
     <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
   </a>
-<!--   <a href="https://www.javascript.com/">
+<a href="https://www.javascript.com/">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  </a> -->
-  <br>
-  <a href="https://www.blender.org/">
-    <img src="https://img.shields.io/badge/blender-339933?style=for-the-badge&logo=blender&logoColor=white">
-  </a>
-  <a href="https://getbootstrap.com">
-    <img src="https://img.shields.io/badge/bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white">
-  </a>
+  </a> 
   <a href="https://www.tensorflow.org/">
     <img src="https://img.shields.io/badge/Tensorflow%20-FF9800?&style=for-the-badge&logo=Tensorflow&logoColor=white">
+  </a>
+  <a href="https://firebase.google.com/">
+    <img src="https://img.shields.io/badge/firebase-FF9800?&style=for-the-badge&logo=firebase&logoColor=white">
   </a>
    <a href="https://scikit-learn.org/stable/">
     <img src="https://img.shields.io/badge/scikit%20learn-000000?&style=for-the-badge&logo=scikit%20learn&logoColor=white">
@@ -68,12 +61,6 @@
     <img src="https://img.shields.io/badge/git-F05032?&style=for-the-badge&logo=git&logoColor=white">
   </a>
   <br>
-  <a href="https://www.figma.com/">
-    <img src="https://img.shields.io/badge/figma-61DAFB?&style=for-the-badge&logo=figma&logoColor=121212">
-  </a>
-  <a href="https://firebase.google.com/">
-    <img src="https://img.shields.io/badge/firebase-FF9800?&style=for-the-badge&logo=firebase&logoColor=white">
-  </a>
   <a href="https://code.visualstudio.com/">
     <img src="https://img.shields.io/badge/VS%20Code-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white">
   </a>
