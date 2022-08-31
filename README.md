@@ -24,7 +24,6 @@
 - ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
 
 ## ⚡**TechStack:**
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
 <p align="center">
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/python-3178C6?&style=for-the-badge&logo=python&logoColor=white">
